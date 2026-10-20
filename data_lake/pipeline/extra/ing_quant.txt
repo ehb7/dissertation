@@ -1,0 +1,68 @@
+ingredient,base_quantity_g
+Dough,250
+Tomato Sauce,80
+Barbecue Sauce,70
+Alfredo Sauce,70
+Pesto Sauce,60
+Chipotle Sauce,50
+Thai Sweet Chilli Sauce,50
+Mozzarella Cheese,100
+Feta Cheese,60
+Provolone Cheese,60
+Smoked Gouda Cheese,60
+Romano Cheese,40
+Blue Cheese,50
+Goat Cheese,60
+Asiago Cheese,50
+Fontina Cheese,60
+Gouda Cheese,60
+Ricotta Cheese,60
+Gorgonzola Piccante Cheese,50
+Parmigiano Reggiano Cheese,40
+Brie Carre Cheese,60
+Chicken,100
+Barbecued Chicken,100
+Sliced Ham,80
+Pepperoni,70
+Bacon,60
+Calabrese Salami,70
+Capocollo,70
+Genoa Salami,70
+Soppressata Salami,70
+Coarse Sicilian Salami,70
+Nduja Salami,60
+Pancetta,60
+Prosciutto di San Daniele,60
+Prosciutto,60
+Italian Sausage,80
+Chorizo Sausage,80
+Luganega Sausage,80
+Beef Chuck Roast,90
+Anchovies,30
+Tomatoes,40
+Plum Tomatoes,40
+Sun-dried Tomatoes,25
+Red Onions,30
+Onions,30
+Caramelized Onions,30
+Red Peppers,30
+Green Peppers,30
+Jalapeno Peppers,20
+Friggitello Peppers,25
+Peperoncini verdi,20
+Mushrooms,40
+Spinach,30
+Zucchini,30
+Eggplant,40
+Artichokes,35
+Artichoke,35
+Green Olives,25
+Kalamata Olives,25
+Pineapple,40
+Corn,25
+Pears,30
+Arugula,20
+Garlic,8
+Oregano,3
+Thyme,3
+Cilantro,8
